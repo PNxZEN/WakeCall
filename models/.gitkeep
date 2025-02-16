@@ -1,0 +1,7 @@
+# This directory contains trained wake word models
+# The following models are included:
+# - Baa_buuuuuu.onnx - Main wake word model
+# - Baabuu.onnx - Alternative version
+# - Baabuu.tflite - TensorFlow Lite version for edge devices
+
+# Note: Keep this file to ensure the models directory is tracked by git
